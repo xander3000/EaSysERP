@@ -1,0 +1,122 @@
+10
+
+dir
+13
+https://subversion.assembla.com/svn/coreplaza/trunk/public/stylesheets/jquery-ui/jquery-ui-1.9.1.custom/development-bundle/demos
+https://subversion.assembla.com/svn/coreplaza
+
+
+
+2015-08-27T20:46:42.582649Z
+2
+gp8086
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eec80a1e-b3e0-4d03-a88f-918ba9864de0
+
+menu
+dir
+
+position
+dir
+
+images
+dir
+
+droppable
+dir
+
+draggable
+dir
+
+sortable
+dir
+
+datepicker
+dir
+
+button
+dir
+
+spinner
+dir
+
+resizable
+dir
+
+slider
+dir
+
+widget
+dir
+
+progressbar
+dir
+
+tabs
+dir
+
+tooltip
+dir
+
+effect
+dir
+
+demos.css
+file
+
+
+
+
+2015-09-01T12:41:03.040671Z
+c7fc917de57fba6b610ad6191fc1a28a
+2015-08-27T20:46:42.582649Z
+2
+gp8086
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+287
+
+dialog
+dir
+
+accordion
+dir
+
+autocomplete
+dir
+
+selectable
+dir
+

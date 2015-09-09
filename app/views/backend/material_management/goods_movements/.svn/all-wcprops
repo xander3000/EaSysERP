@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements
+END
+add.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/add.rjs
+END
+_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/_items.erb
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/show.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/_form.erb
+END
+_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/_form_items.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/show.html.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/index.erb
+END
+set_goods_movement_type.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/set_goods_movement_type.rjs
+END
+confirm_doc.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/confirm_doc.rjs
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/new.erb
+END
+_form_header.erb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/_form_header.erb
+END
+set_goods_movement_reason.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/goods_movements/set_goods_movement_reason.rjs
+END

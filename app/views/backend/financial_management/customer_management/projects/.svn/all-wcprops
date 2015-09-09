@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/projects
+END
+_show_2.erb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/projects/_show_2.erb
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/projects/show.erb
+END
+_call_registers.erb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/projects/_call_registers.erb
+END
+_show_3.erb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/projects/_show_3.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/projects/_form.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/projects/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/projects/new.erb
+END

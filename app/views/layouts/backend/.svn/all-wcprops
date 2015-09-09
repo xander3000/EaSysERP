@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/coreplaza/!svn/ver/2/trunk/app/views/layouts/backend
+END
+report.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/views/layouts/backend/report.html.erb
+END
+new_decision_design.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/coreplaza/!svn/ver/2/trunk/app/views/layouts/backend/new_decision_design.html.erb
+END
+external_monitoring_assistance.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/app/views/layouts/backend/external_monitoring_assistance.erb
+END
+application.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/views/layouts/backend/application.html.erb
+END
+session.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/layouts/backend/session.html.erb
+END
+_menunav.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/views/layouts/backend/_menunav.erb
+END
+application_cpanel.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/app/views/layouts/backend/application_cpanel.html.erb
+END
+contable_document.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/views/layouts/backend/contable_document.html.erb
+END

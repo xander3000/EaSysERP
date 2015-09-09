@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/new.erb
+END
+search_invoices.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/search_invoices.rjs
+END
+_product_by_credit_notes.erb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/_product_by_credit_notes.erb
+END
+load_product_by_invoice.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/load_product_by_invoice.rjs
+END
+add_product.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/add_product.rjs
+END
+_form_client.erb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/_form_client.erb
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/show.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/_form.erb
+END
+_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/_form_items.erb
+END
+remove_product.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/remove_product.rjs
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/show.html.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/credit_notes/index.erb
+END

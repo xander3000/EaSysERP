@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions
+END
+_approve_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_approve_form.erb
+END
+_approve_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_approve_form_items.erb
+END
+approve_process.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/approve_process.rjs
+END
+_show_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_show_form.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_form.erb
+END
+_show_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_show_form_items.erb
+END
+_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_form_items.erb
+END
+_verify_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_verify_items.erb
+END
+verify.erb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/verify.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/index.erb
+END
+_form_header.erb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_form_header.erb
+END
+_approve_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_approve_items.erb
+END
+approve.erb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/approve.erb
+END
+add.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/add.rjs
+END
+_show_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_show_items.erb
+END
+_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_items.erb
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/show.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/show.html.erb
+END
+_verify_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_verify_form.erb
+END
+_verify_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/_verify_form_items.erb
+END
+verify_process.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/verify_process.rjs
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/purchase_requisitions/new.erb
+END

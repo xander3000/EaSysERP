@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend
+END
+shorcuts_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/shorcuts_controller_test.rb
+END
+finished_products_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/finished_products_controller_test.rb
+END
+multimedia_files_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/multimedia_files_controller_test.rb
+END
+contacts_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/contacts_controller_test.rb
+END
+invoices_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/invoices_controller_test.rb
+END
+credit_notes_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/credit_notes_controller_test.rb
+END
+session_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/session_controller_test.rb
+END
+home_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/home_controller_test.rb
+END
+docs_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/docs_controller_test.rb
+END
+raw_materials_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/raw_materials_controller_test.rb
+END
+designs_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/designs_controller_test.rb
+END
+budgets_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/budgets_controller_test.rb
+END
+reports_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/reports_controller_test.rb
+END
+orders_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/orders_controller_test.rb
+END
+cases_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/cases_controller_test.rb
+END
+incoming_invoices_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/incoming_invoices_controller_test.rb
+END
+products_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/products_controller_test.rb
+END
+customer_details_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/customer_details_controller_test.rb
+END

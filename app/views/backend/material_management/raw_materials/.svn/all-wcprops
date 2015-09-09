@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/new.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/create.rjs
+END
+print_good_movements.erb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/print_good_movements.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/_form.erb
+END
+_show_6.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/_show_6.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/index.erb
+END
+_menunav.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/_menunav.erb
+END
+update.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/update.rjs
+END
+_form_header.erb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/_form_header.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/index.html.erb
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/show.erb
+END
+_form_1.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/_form_1.erb
+END
+_form_2.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/_form_2.erb
+END
+_form_3.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/_form_3.erb
+END
+edit.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/edit.erb
+END
+_form_4.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/_form_4.erb
+END
+_form_5.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_materials/_form_5.erb
+END

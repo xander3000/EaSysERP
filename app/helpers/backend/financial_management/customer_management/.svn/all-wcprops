@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management
+END
+call_manager_registers_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/call_manager_registers_helper.rb
+END
+calls_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/calls_helper.rb
+END
+contacts_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/contacts_helper.rb
+END
+accounts_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/accounts_helper.rb
+END
+contracts_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/contracts_helper.rb
+END
+quotes_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/quotes_helper.rb
+END
+lifts_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/lifts_helper.rb
+END
+activities_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/activities_helper.rb
+END
+opportunities_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/opportunities_helper.rb
+END
+leads_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/leads_helper.rb
+END
+notes_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/notes_helper.rb
+END
+projects_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/projects_helper.rb
+END
+emails_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/emails_helper.rb
+END
+meetings_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/financial_management/customer_management/meetings_helper.rb
+END

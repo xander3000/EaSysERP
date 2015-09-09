@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/coreplaza/!svn/ver/4/trunk/app/views/backend/financial_management/outgoing_invoices
+END
+_detail_payments.erb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/_detail_payments.erb
+END
+set_current_client.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/set_current_client.rjs
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/show.html.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/new.erb
+END
+_invoices_body.erb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/_invoices_body.erb
+END
+_form_client.erb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/coreplaza/!svn/ver/4/trunk/app/views/backend/financial_management/outgoing_invoices/_form_client.erb
+END
+show_voucher_withholding_islr.erb
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/show_voucher_withholding_islr.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/index.erb
+END
+_incoming_invoice_billings_by_invoice.erb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/_incoming_invoice_billings_by_invoice.erb
+END
+_product_by_invoices_show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/_product_by_invoices_show.erb
+END
+add_payment.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/add_payment.rjs
+END
+add_incoming_invoice_billing.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/add_incoming_invoice_billing.rjs
+END
+remove_product_from_invoice.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/remove_product_from_invoice.rjs
+END
+print.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/print.rjs
+END
+_product_components.erb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/_product_components.erb
+END
+get_additional_payment_method_information.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/get_additional_payment_method_information.rjs
+END
+remove_product_from_budget.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/remove_product_from_budget.rjs
+END
+register_print.erb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/register_print.erb
+END
+_detail_incoming_invoice_billing.erb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/_detail_incoming_invoice_billing.erb
+END
+get_additional_incoming_invoice_billing_information.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/get_additional_incoming_invoice_billing_information.rjs
+END
+_form_incoming_invoice_billing.erb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/_form_incoming_invoice_billing.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/4/trunk/app/views/backend/financial_management/outgoing_invoices/_form.erb
+END
+_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/_form_items.erb
+END
+add_pos_card_terminal_position.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/add_pos_card_terminal_position.rjs
+END
+_product_by_invoices.erb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/_product_by_invoices.erb
+END
+add_cash_count_position.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/add_cash_count_position.rjs
+END
+_detail_header.erb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/4/trunk/app/views/backend/financial_management/outgoing_invoices/_detail_header.erb
+END
+change_state.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/change_state.rjs
+END
+_pos_card_terminal_positions_added.erb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/_pos_card_terminal_positions_added.erb
+END
+add_product.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/outgoing_invoices/add_product.rjs
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/coreplaza/!svn/ver/4/trunk/app/views/backend/financial_management/outgoing_invoices/show.erb
+END

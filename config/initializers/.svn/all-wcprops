@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers
+END
+formtastic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers/formtastic.rb
+END
+mime_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers/mime_types.rb
+END
+inflections.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers/inflections.rb
+END
+session_store.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers/session_store.rb
+END
+wicked_pdf.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers/wicked_pdf.rb
+END
+class_extensions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers/class_extensions.rb
+END
+imgkit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers/imgkit.rb
+END
+load_config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers/load_config.rb
+END
+backtrace_silencers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers/backtrace_silencers.rb
+END
+new_rails_defaults.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/config/initializers/new_rails_defaults.rb
+END

@@ -1,0 +1,40 @@
+10
+
+dir
+13
+https://subversion.assembla.com/svn/coreplaza/trunk/app
+https://subversion.assembla.com/svn/coreplaza
+
+
+
+2015-09-03T03:32:23.750892Z
+12
+gp8086
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eec80a1e-b3e0-4d03-a88f-918ba9864de0
+
+views
+dir
+
+helpers
+dir
+
+models
+dir
+
+controllers
+dir
+

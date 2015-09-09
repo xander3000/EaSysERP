@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/raw_material_price_definition_set_color_by_components
+END
+edit.erb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/raw_material_price_definition_set_color_by_components/edit.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/raw_material_price_definition_set_color_by_components/index.erb
+END
+update.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/raw_material_price_definition_set_color_by_components/update.rjs
+END

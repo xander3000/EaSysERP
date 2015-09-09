@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management
+END
+outgoing_invoices_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/outgoing_invoices_helper_test.rb
+END
+payment_orders_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/payment_orders_helper_test.rb
+END
+payable_accounts_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/payable_accounts_helper_test.rb
+END
+payment_schedules_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/payment_schedules_helper_test.rb
+END
+sales_ledgers_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/sales_ledgers_helper_test.rb
+END
+account_receivable_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/account_receivable_helper_test.rb
+END
+service_orders_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/service_orders_helper_test.rb
+END
+purchase_ledgers_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/purchase_ledgers_helper_test.rb
+END
+receivable_accounts_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/receivable_accounts_helper_test.rb
+END
+clients_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/clients_helper_test.rb
+END
+credit_notes_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/credit_notes_helper_test.rb
+END
+incoming_invoices_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/incoming_invoices_helper_test.rb
+END
+advances_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/advances_helper_test.rb
+END
+suppliers_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/financial_management/suppliers_helper_test.rb
+END

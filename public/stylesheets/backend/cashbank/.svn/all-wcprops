@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/cashbank
+END
+bank_reconciliations.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/cashbank/bank_reconciliations.css
+END
+cashes.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/cashbank/cashes.css
+END
+bank_movements.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/cashbank/bank_movements.css
+END
+bank_accounts.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/cashbank/bank_accounts.css
+END
+cash_journals.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/cashbank/cash_journals.css
+END
+banks.css
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/cashbank/banks.css
+END

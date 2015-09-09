@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/show.html.erb
+END
+remove_product.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/remove_product.rjs
+END
+edit_quantity.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/edit_quantity.erb
+END
+_product_components.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/_product_components.erb
+END
+add_discount.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/add_discount.rjs
+END
+_product_by_budgets.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/_product_by_budgets.erb
+END
+custom_paper_type.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/custom_paper_type.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/new.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/create.rjs
+END
+search.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/search.rjs
+END
+_item.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/_item.erb
+END
+get_additional_payment_method_information.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/get_additional_payment_method_information.rjs
+END
+_form_client.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/_form_client.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/_form.erb
+END
+_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/_form_items.erb
+END
+custom_color_mode_type.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/custom_color_mode_type.rjs
+END
+show_product_by_budget.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/show_product_by_budget.erb
+END
+find_product_components_by_product.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/find_product_components_by_product.rjs
+END
+update_quantity.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/update_quantity.rjs
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/index.erb
+END
+purchase_order.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/purchase_order.html.erb
+END
+_menunav.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/_menunav.erb
+END
+_list.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/_list.erb
+END
+order_generate.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/order_generate.rjs
+END
+paginate.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/paginate.rjs
+END
+add_product.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/add_product.rjs
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/show.erb
+END
+_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/_items.erb
+END
+custom_paper_size.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/budgets/custom_paper_size.rjs
+END

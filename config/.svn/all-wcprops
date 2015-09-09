@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/coreplaza/!svn/ver/9/trunk/config
+END
+preinitializer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/coreplaza/!svn/ver/2/trunk/config/preinitializer.rb
+END
+routes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/coreplaza/!svn/ver/9/trunk/config/routes.rb
+END
+database.yml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/coreplaza/!svn/ver/2/trunk/config/database.yml
+END
+boot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/coreplaza/!svn/ver/2/trunk/config/boot.rb
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/coreplaza/!svn/ver/2/trunk/config/config.yml
+END
+environment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/coreplaza/!svn/ver/2/trunk/config/environment.rb
+END

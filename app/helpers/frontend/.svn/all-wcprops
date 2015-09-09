@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend
+END
+home_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend/home_helper.rb
+END
+designs_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend/designs_helper.rb
+END
+budgets_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend/budgets_helper.rb
+END
+contacts_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend/contacts_helper.rb
+END
+orders_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend/orders_helper.rb
+END
+users_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend/users_helper.rb
+END
+aboutus_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend/aboutus_helper.rb
+END
+products_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend/products_helper.rb
+END
+session_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend/session_helper.rb
+END
+static_contents_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/frontend/static_contents_helper.rb
+END

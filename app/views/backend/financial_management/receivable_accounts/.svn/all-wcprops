@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/receivable_accounts
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/receivable_accounts/index.erb
+END
+index.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/receivable_accounts/index.html.erb
+END

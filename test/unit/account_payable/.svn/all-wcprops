@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable
+END
+payment_order_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/payment_order_test.rb
+END
+payment_order_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/payment_order_type_test.rb
+END
+payment_schedule_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/payment_schedule_test.rb
+END
+incoming_invoice_tax_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/incoming_invoice_tax_test.rb
+END
+payment_schedule_position_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/payment_schedule_position_test.rb
+END
+incoming_invoice_document_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/incoming_invoice_document_type_test.rb
+END
+payment_frequency_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/payment_frequency_test.rb
+END
+incoming_invoice_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/incoming_invoice_test.rb
+END
+status_incoming_invoice_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/status_incoming_invoice_test.rb
+END
+supplier_credit_note_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/supplier_credit_note_test.rb
+END
+incoming_invoice_position_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/incoming_invoice_position_test.rb
+END
+incoming_invoice_status_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/incoming_invoice_status_type_test.rb
+END
+incoming_invoice_retention_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/incoming_invoice_retention_test.rb
+END
+payment_order_document_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/account_payable/payment_order_document_type_test.rb
+END

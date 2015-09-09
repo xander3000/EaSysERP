@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank
+END
+bank_reconciliation_bank_statement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/bank_reconciliation_bank_statement.rb
+END
+daily_cash_closing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/daily_cash_closing.rb
+END
+cash.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/cash.rb
+END
+daily_cash_opening.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/daily_cash_opening.rb
+END
+cash_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/cash_type.rb
+END
+cash_journal_count.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/cash_journal_count.rb
+END
+check_status_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/check_status_type.rb
+END
+bank_autoreconciliation_by_description.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/bank_autoreconciliation_by_description.rb
+END
+bank_movement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/bank_movement.rb
+END
+pos_card_terminal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/pos_card_terminal.rb
+END
+bank_account.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/bank_account.rb
+END
+checkbook.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/checkbook.rb
+END
+bank_account_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/bank_account_type.rb
+END
+cash_journal_position_category_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/cash_journal_position_category_type.rb
+END
+cash_journal_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/cash_journal_position.rb
+END
+bank_reconciliation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/bank_reconciliation.rb
+END
+pos_card_terminal_movement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/pos_card_terminal_movement.rb
+END
+bank_movement_retention_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/bank_movement_retention_position.rb
+END
+cash_count_movement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/cash_count_movement.rb
+END
+cash_journal_count_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/cash_journal_count_position.rb
+END
+bank_movement_operation_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/bank_movement_operation_type.rb
+END
+check_offered.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/check_offered.rb
+END
+involvement_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/involvement_type.rb
+END
+cash_journal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/cash_journal.rb
+END
+cash_journal_position_concept_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/cash_journal_position_concept_type.rb
+END
+pos_card_terminal_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/pos_card_terminal_position.rb
+END
+bank_movement_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/bank_movement_position.rb
+END
+cash_count_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/cash_count_position.rb
+END
+bank.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/coreplaza/!svn/ver/2/trunk/app/models/cash_bank/bank.rb
+END

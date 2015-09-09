@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cases
+END
+_item_by_state.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cases/_item_by_state.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cases/index.erb
+END
+index_1.erb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cases/index_1.erb
+END
+_cases_by_states.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cases/_cases_by_states.erb
+END
+_item.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cases/_item.erb
+END

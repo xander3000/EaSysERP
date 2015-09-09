@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules
+END
+set_bank.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/set_bank.rjs
+END
+set_incoming_invoice.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/set_incoming_invoice.rjs
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/_form.erb
+END
+edit.erb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/edit.erb
+END
+_payment_plan.erb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/_payment_plan.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/index.erb
+END
+set_payment_plan.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/set_payment_plan.rjs
+END
+update.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/update.rjs
+END
+_form_payment_plan.erb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/_form_payment_plan.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/new.erb
+END
+_form_header.erb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/payment_schedules/_form_header.erb
+END

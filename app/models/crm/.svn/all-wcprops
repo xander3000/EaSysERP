@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm
+END
+lead_source.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/lead_source.rb
+END
+email.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/email.rb
+END
+meeting.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/meeting.rb
+END
+meeting_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/meeting_type.rb
+END
+contact.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/contact.rb
+END
+activity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/activity.rb
+END
+account.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/account.rb
+END
+account_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/account_type.rb
+END
+quote.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/quote.rb
+END
+call_invitee.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/call_invitee.rb
+END
+note.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/note.rb
+END
+lead.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/lead.rb
+END
+project.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/project.rb
+END
+lead_status_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/lead_status_type.rb
+END
+meeting_invitee.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/meeting_invitee.rb
+END
+call.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/call.rb
+END
+opportunity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/opportunity.rb
+END
+sector_account_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/sector_account_type.rb
+END
+contract.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/contract.rb
+END
+opportunity_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/opportunity_type.rb
+END
+contract_status.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/contract_status.rb
+END
+opportunity_status_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/opportunity_status_type.rb
+END
+quote_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/quote_position.rb
+END
+quote_stage_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/quote_stage_type.rb
+END

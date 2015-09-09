@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/crm/projects
+END
+lift_category_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/crm/projects/lift_category_type_test.rb
+END
+lift_model_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/crm/projects/lift_model_test.rb
+END
+lift_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/crm/projects/lift_test.rb
+END
+lift_manufacturing_phase_lift_model_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/crm/projects/lift_manufacturing_phase_lift_model_test.rb
+END
+executive_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/crm/projects/executive_test.rb
+END
+lift_manufacturing_phase_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/crm/projects/lift_manufacturing_phase_test.rb
+END
+lift_material_for_manufacturing_phase_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/crm/projects/lift_material_for_manufacturing_phase_test.rb
+END
+call_manager_register_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/crm/projects/call_manager_register_test.rb
+END

@@ -1,0 +1,70 @@
+10
+
+dir
+13
+https://subversion.assembla.com/svn/coreplaza/trunk/app/views/backend/financial_management
+https://subversion.assembla.com/svn/coreplaza
+
+
+
+2015-09-01T23:06:44.173631Z
+4
+gp8086
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eec80a1e-b3e0-4d03-a88f-918ba9864de0
+
+suppliers
+dir
+
+outgoing_invoices
+dir
+
+payment_orders
+dir
+
+payable_accounts
+dir
+
+payment_schedules
+dir
+
+sales_ledgers
+dir
+
+customer_management
+dir
+
+service_orders
+dir
+
+purchase_ledgers
+dir
+
+receivable_accounts
+dir
+
+clients
+dir
+
+credit_notes
+dir
+
+incoming_invoices
+dir
+
+advances
+dir
+

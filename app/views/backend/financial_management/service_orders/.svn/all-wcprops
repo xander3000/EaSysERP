@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/4/trunk/app/views/backend/financial_management/service_orders
+END
+add.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/service_orders/add.rjs
+END
+_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/service_orders/_items.erb
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/service_orders/show.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/service_orders/_form.erb
+END
+_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/service_orders/_form_items.erb
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/service_orders/show.html.erb
+END
+get_quotation_requisition_supplier.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/service_orders/get_quotation_requisition_supplier.rjs
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/service_orders/index.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/4/trunk/app/views/backend/financial_management/service_orders/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/service_orders/new.erb
+END
+_form_header.erb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/service_orders/_form_header.erb
+END

@@ -1,0 +1,49 @@
+10
+
+dir
+13
+https://subversion.assembla.com/svn/coreplaza/trunk/app/views/backend/human_resource
+https://subversion.assembla.com/svn/coreplaza
+
+
+
+2015-09-03T02:58:58.422210Z
+11
+gp8086
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eec80a1e-b3e0-4d03-a88f-918ba9864de0
+
+monitoring_assistances
+dir
+
+departments
+dir
+
+positions
+dir
+
+last_payrolls
+dir
+
+concepts
+dir
+
+concept_personal_types
+dir
+
+employees
+dir
+

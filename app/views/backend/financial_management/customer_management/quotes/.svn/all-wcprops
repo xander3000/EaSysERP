@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes/index.erb
+END
+update.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes/update.rjs
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes/new.erb
+END
+new_position.erb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes/new_position.erb
+END
+_quotes_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes/_quotes_items.erb
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes/show.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes/_form.erb
+END
+add_position.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes/add_position.rjs
+END
+edit.erb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/quotes/edit.erb
+END

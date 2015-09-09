@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cashbank/check_offereds
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cashbank/check_offereds/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cashbank/check_offereds/new.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cashbank/check_offereds/_form.erb
+END
+search_checkbook_by_bank_account.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cashbank/check_offereds/search_checkbook_by_bank_account.rjs
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cashbank/check_offereds/index.erb
+END
+search_bank_account_by_bank.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cashbank/check_offereds/search_bank_account_by_bank.rjs
+END

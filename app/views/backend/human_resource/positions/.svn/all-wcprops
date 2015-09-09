@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/human_resource/positions
+END
+edit.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/human_resource/positions/edit.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/human_resource/positions/index.erb
+END
+update.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/human_resource/positions/update.rjs
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/human_resource/positions/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/human_resource/positions/new.erb
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/human_resource/positions/show.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/human_resource/positions/_form.erb
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/cashbank
+END
+bank_accounts_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/cashbank/bank_accounts_helper.rb
+END
+check_offereds_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/cashbank/check_offereds_helper.rb
+END
+cash_journals_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/cashbank/cash_journals_helper.rb
+END
+checkbooks_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/cashbank/checkbooks_helper.rb
+END
+banks_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/cashbank/banks_helper.rb
+END
+bank_reconciliations_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/cashbank/bank_reconciliations_helper.rb
+END
+cashes_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/cashbank/cashes_helper.rb
+END
+bank_movements_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/cashbank/bank_movements_helper.rb
+END

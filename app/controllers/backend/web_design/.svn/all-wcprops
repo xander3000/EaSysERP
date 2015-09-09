@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/web_design
+END
+base_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/web_design/base_controller.rb
+END
+portfolios_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/web_design/portfolios_controller.rb
+END
+custom_designs_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/web_design/custom_designs_controller.rb
+END
+home_page_slides_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/web_design/home_page_slides_controller.rb
+END

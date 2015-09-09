@@ -1,0 +1,785 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/coreplaza/!svn/ver/12/trunk/app/models
+END
+state.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/coreplaza/!svn/ver/2/trunk/app/models/state.rb
+END
+priority.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/coreplaza/!svn/ver/2/trunk/app/models/priority.rb
+END
+raw_material_price_definition_set_black_by_component.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/app/models/raw_material_price_definition_set_black_by_component.rb
+END
+location_inventory.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/models/location_inventory.rb
+END
+raw_material_price_definition_set_color_by_component.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/app/models/raw_material_price_definition_set_color_by_component.rb
+END
+finished_product.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/coreplaza/!svn/ver/2/trunk/app/models/finished_product.rb
+END
+purchase_order_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/models/purchase_order_position.rb
+END
+assigment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/coreplaza/!svn/ver/2/trunk/app/models/assigment.rb
+END
+field_form_font_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/models/field_form_font_type.rb
+END
+element_for_product.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/models/element_for_product.rb
+END
+comment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/coreplaza/!svn/ver/2/trunk/app/models/comment.rb
+END
+field_form_color.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/coreplaza/!svn/ver/2/trunk/app/models/field_form_color.rb
+END
+purchase_order.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/coreplaza/!svn/ver/2/trunk/app/models/purchase_order.rb
+END
+digital_card.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/digital_card.rb
+END
+delivery_note.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/coreplaza/!svn/ver/2/trunk/app/models/delivery_note.rb
+END
+city.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/coreplaza/!svn/ver/2/trunk/app/models/city.rb
+END
+digital_card_field.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/models/digital_card_field.rb
+END
+goods_movement_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/models/goods_movement_position.rb
+END
+incoming_invoice_payment.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/models/incoming_invoice_payment.rb
+END
+accesory_component_by_budget.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accesory_component_by_budget.rb
+END
+product_price_definition_set.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/models/product_price_definition_set.rb
+END
+goods_movement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/coreplaza/!svn/ver/2/trunk/app/models/goods_movement.rb
+END
+product_by_invoice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/models/product_by_invoice.rb
+END
+identification_document_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/models/identification_document_type.rb
+END
+contact.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/coreplaza/!svn/ver/2/trunk/app/models/contact.rb
+END
+price_list.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/coreplaza/!svn/ver/2/trunk/app/models/price_list.rb
+END
+country.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/coreplaza/!svn/ver/2/trunk/app/models/country.rb
+END
+custom_design.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/coreplaza/!svn/ver/2/trunk/app/models/custom_design.rb
+END
+position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/coreplaza/!svn/ver/2/trunk/app/models/position.rb
+END
+raw_material.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/raw_material.rb
+END
+field_form_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/coreplaza/!svn/ver/2/trunk/app/models/field_form_type.rb
+END
+invoice_printing_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/models/invoice_printing_type.rb
+END
+page_size_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/coreplaza/!svn/ver/2/trunk/app/models/page_size_type.rb
+END
+mailer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/coreplaza/!svn/ver/2/trunk/app/models/mailer.rb
+END
+order.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/coreplaza/!svn/ver/2/trunk/app/models/order.rb
+END
+entity.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/coreplaza/!svn/ver/2/trunk/app/models/entity.rb
+END
+customer_client_requirement_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/models/customer_client_requirement_type.rb
+END
+product.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/coreplaza/!svn/ver/2/trunk/app/models/product.rb
+END
+unit_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/coreplaza/!svn/ver/2/trunk/app/models/unit_type.rb
+END
+finish_product_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/models/finish_product_type.rb
+END
+notification.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/notification.rb
+END
+currency_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/coreplaza/!svn/ver/2/trunk/app/models/currency_type.rb
+END
+goods_movement_reason.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/models/goods_movement_reason.rb
+END
+presentation_unit_type_measure.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/app/models/presentation_unit_type_measure.rb
+END
+customer_client_elevator_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/models/customer_client_elevator_type.rb
+END
+supplier.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/coreplaza/!svn/ver/2/trunk/app/models/supplier.rb
+END
+reason_inventory.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/coreplaza/!svn/ver/2/trunk/app/models/reason_inventory.rb
+END
+digital_card_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/coreplaza/!svn/ver/2/trunk/app/models/digital_card_type.rb
+END
+price_list_component_accesory.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/models/price_list_component_accesory.rb
+END
+binding_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/binding_type.rb
+END
+presentation_unit_type_measurement.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/coreplaza/!svn/ver/2/trunk/app/models/presentation_unit_type_measurement.rb
+END
+standard_measure.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/coreplaza/!svn/ver/2/trunk/app/models/standard_measure.rb
+END
+customer_detail.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/coreplaza/!svn/ver/2/trunk/app/models/customer_detail.rb
+END
+product_component_by_budget.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/models/product_component_by_budget.rb
+END
+permission.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/coreplaza/!svn/ver/2/trunk/app/models/permission.rb
+END
+product_by_credit_note.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/models/product_by_credit_note.rb
+END
+packing_material.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/coreplaza/!svn/ver/2/trunk/app/models/packing_material.rb
+END
+value_quarter_sheet_black_raw_material.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/models/value_quarter_sheet_black_raw_material.rb
+END
+value_quarter_sheet_color_raw_material.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/models/value_quarter_sheet_color_raw_material.rb
+END
+material_product_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/models/material_product_type.rb
+END
+custom_design_category_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/models/custom_design_category_type.rb
+END
+home_page_slide.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/coreplaza/!svn/ver/2/trunk/app/models/home_page_slide.rb
+END
+raw_material_category.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/models/raw_material_category.rb
+END
+presentation_unit_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/models/presentation_unit_type.rb
+END
+accessory_component_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accessory_component_type.rb
+END
+user_session.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/user_session.rb
+END
+supplier_withholding_taxe.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/coreplaza/!svn/ver/2/trunk/app/models/supplier_withholding_taxe.rb
+END
+goods_receipt.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/coreplaza/!svn/ver/2/trunk/app/models/goods_receipt.rb
+END
+client_discount_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/models/client_discount_type.rb
+END
+multimedia_file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/coreplaza/!svn/ver/2/trunk/app/models/multimedia_file.rb
+END
+client_reputation_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/models/client_reputation_type.rb
+END
+printing_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/coreplaza/!svn/ver/2/trunk/app/models/printing_type.rb
+END
+invoice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/coreplaza/!svn/ver/2/trunk/app/models/invoice.rb
+END
+contact_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/contact_type.rb
+END
+price_list_product.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/models/price_list_product.rb
+END
+accesory_component_by_invoice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accesory_component_by_invoice.rb
+END
+role.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/coreplaza/!svn/ver/2/trunk/app/models/role.rb
+END
+custom_design_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/models/custom_design_type.rb
+END
+measure_change_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/models/measure_change_type.rb
+END
+budget.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/coreplaza/!svn/ver/2/trunk/app/models/budget.rb
+END
+goods_receipt_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/models/goods_receipt_position.rb
+END
+payment_method_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/models/payment_method_type.rb
+END
+value_square_meter_raw_material.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/models/value_square_meter_raw_material.rb
+END
+employee.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/coreplaza/!svn/ver/2/trunk/app/models/employee.rb
+END
+presentation_unit_type_conversion.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/models/presentation_unit_type_conversion.rb
+END
+digital_card_model.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/models/digital_card_model.rb
+END
+tracker.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/coreplaza/!svn/ver/2/trunk/app/models/tracker.rb
+END
+additional_component_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/coreplaza/!svn/ver/2/trunk/app/models/additional_component_type.rb
+END
+value_quarter_sheet_white_raw_material.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/models/value_quarter_sheet_white_raw_material.rb
+END
+price_definition_set_by_component_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/models/price_definition_set_by_component_type.rb
+END
+supplier_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/coreplaza/!svn/ver/2/trunk/app/models/supplier_type.rb
+END
+state_matrix.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/state_matrix.rb
+END
+paper_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/coreplaza/!svn/ver/2/trunk/app/models/paper_type.rb
+END
+dossier_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/dossier_type.rb
+END
+measure_change_denomination.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/models/measure_change_denomination.rb
+END
+price_definition_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/models/price_definition_type.rb
+END
+presentation_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/coreplaza/!svn/ver/2/trunk/app/models/presentation_type.rb
+END
+client.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/coreplaza/!svn/ver/2/trunk/app/models/client.rb
+END
+user.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/coreplaza/!svn/ver/2/trunk/app/models/user.rb
+END
+incoming_invoice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/coreplaza/!svn/ver/2/trunk/app/models/incoming_invoice.rb
+END
+incoming_invoice_billing.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/models/incoming_invoice_billing.rb
+END
+product_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/models/product_type.rb
+END
+credit_note_emision_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/models/credit_note_emision_type.rb
+END
+goods_movement_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/models/goods_movement_type.rb
+END
+finished_product_category_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/app/models/finished_product_category_type.rb
+END
+user_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/coreplaza/!svn/ver/2/trunk/app/models/user_group.rb
+END
+tax.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/coreplaza/!svn/ver/2/trunk/app/models/tax.rb
+END
+inventory.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/coreplaza/!svn/ver/2/trunk/app/models/inventory.rb
+END
+credit_note.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/coreplaza/!svn/ver/2/trunk/app/models/credit_note.rb
+END
+app_config.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/coreplaza/!svn/ver/2/trunk/app/models/app_config.rb
+END
+doc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/coreplaza/!svn/ver/2/trunk/app/models/doc.rb
+END
+product_component_by_invoice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/models/product_component_by_invoice.rb
+END
+design.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/coreplaza/!svn/ver/2/trunk/app/models/design.rb
+END
+salulation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/coreplaza/!svn/ver/2/trunk/app/models/salulation.rb
+END
+credit_note_entry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/coreplaza/!svn/ver/2/trunk/app/models/credit_note_entry.rb
+END
+color_mode_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/coreplaza/!svn/ver/2/trunk/app/models/color_mode_type.rb
+END
+state_by_user_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/models/state_by_user_group.rb
+END
+contact_category.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/coreplaza/!svn/ver/2/trunk/app/models/contact_category.rb
+END
+customer_client_technical_detail.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/models/customer_client_technical_detail.rb
+END
+ability.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/coreplaza/!svn/ver/2/trunk/app/models/ability.rb
+END
+authorization.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/coreplaza/!svn/ver/2/trunk/app/models/authorization.rb
+END
+product_price_definition_set_by_component.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/coreplaza/!svn/ver/2/trunk/app/models/product_price_definition_set_by_component.rb
+END
+tracking_state.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/coreplaza/!svn/ver/2/trunk/app/models/tracking_state.rb
+END
+incoming_invoice_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/coreplaza/!svn/ver/2/trunk/app/models/incoming_invoice_position.rb
+END
+product_component_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/models/product_component_type.rb
+END
+product_by_budget.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/coreplaza/!svn/ver/2/trunk/app/models/product_by_budget.rb
+END
+commercialization_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/models/commercialization_type.rb
+END
+case.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/coreplaza/!svn/ver/2/trunk/app/models/case.rb
+END
+incoming_invoice_document_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/app/models/incoming_invoice_document_type.rb
+END
+client_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/coreplaza/!svn/ver/2/trunk/app/models/client_type.rb
+END

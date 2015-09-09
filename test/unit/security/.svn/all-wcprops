@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/security
+END
+module_category_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/security/module_category_test.rb
+END
+module_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/security/module_test.rb
+END
+permission_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/security/permission_test.rb
+END
+submodule_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/security/submodule_test.rb
+END
+role_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/security/role_test.rb
+END

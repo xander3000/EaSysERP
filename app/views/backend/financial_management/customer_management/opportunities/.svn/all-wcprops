@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/opportunities
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/opportunities/show.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/opportunities/_form.erb
+END
+edit.erb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/opportunities/edit.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/opportunities/index.erb
+END
+update.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/opportunities/update.rjs
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/opportunities/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/customer_management/opportunities/new.erb
+END

@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders
+END
+paginate.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/paginate.rjs
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/show.erb
+END
+create_delivery_note.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/create_delivery_note.rjs
+END
+new_design.erb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/new_design.erb
+END
+_fileupload.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/_fileupload.erb
+END
+_change_state.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/_change_state.erb
+END
+discard_design.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/discard_design.rjs
+END
+_form_delivery_note.erb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/_form_delivery_note.erb
+END
+_item.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/_item.erb
+END
+digital_card.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/digital_card.erb
+END
+_orders_by_states.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/_orders_by_states.erb
+END
+show_delivery_note.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/show_delivery_note.html.erb
+END
+new_comment.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/new_comment.erb
+END
+accept_design.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/accept_design.rjs
+END
+new_delivery_note.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/new_delivery_note.erb
+END
+create_design.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/create_design.rjs
+END
+show.html.erb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/show.html.erb
+END
+_form_for_decision.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/_form_for_decision.erb
+END
+_item_by_state.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/_item_by_state.erb
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/new.erb
+END
+search.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/search.rjs
+END
+show_tracker.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/show_tracker.erb
+END
+new_decision_design.erb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/new_decision_design.erb
+END
+add_comment.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/add_comment.rjs
+END
+_form_for_design.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/_form_for_design.erb
+END
+discard_design.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/discard_design.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/index.erb
+END
+show_delivery_note.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/show_delivery_note.erb
+END
+show_design.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/show_design.erb
+END
+cancel.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/cancel.rjs
+END
+change_state.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/change_state.rjs
+END
+reassign_tracker.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/orders/reassign_tracker.rjs
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/accountancy/accountant_accounts
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/accountancy/accountant_accounts/_form.erb
+END
+process_movements_by_criterion.erb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/accountancy/accountant_accounts/process_movements_by_criterion.erb
+END
+movements_by_criterion.erb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/accountancy/accountant_accounts/movements_by_criterion.erb
+END
+_children.erb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/accountancy/accountant_accounts/_children.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/accountancy/accountant_accounts/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/accountancy/accountant_accounts/new.erb
+END
+show_children.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/accountancy/accountant_accounts/show_children.rjs
+END

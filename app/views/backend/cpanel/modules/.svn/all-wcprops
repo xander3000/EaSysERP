@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/modules
+END
+edit.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/modules/edit.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/modules/index.erb
+END
+update.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/modules/update.rjs
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/modules/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/modules/new.erb
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/modules/show.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/modules/_form.erb
+END

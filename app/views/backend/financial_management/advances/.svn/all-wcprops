@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/advances
+END
+_form_header.erb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/advances/_form_header.erb
+END
+set_balance_from_doc.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/advances/set_balance_from_doc.rjs
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/advances/_form.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/advances/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/advances/new.erb
+END

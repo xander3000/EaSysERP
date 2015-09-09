@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/coreplaza/!svn/ver/13/trunk
+END
+Gemfile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/coreplaza/!svn/ver/2/trunk/Gemfile
+END
+start_mongrel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/coreplaza/!svn/ver/2/trunk/start_mongrel.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/coreplaza/!svn/ver/2/trunk/README
+END
+nohup.out
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/coreplaza/!svn/ver/2/trunk/nohup.out
+END
+Gemfile.lock
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/coreplaza/!svn/ver/2/trunk/Gemfile.lock
+END
+stop_mongrel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/coreplaza/!svn/ver/2/trunk/stop_mongrel.sh
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/coreplaza/!svn/ver/2/trunk/Rakefile
+END

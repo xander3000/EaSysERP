@@ -1,0 +1,70 @@
+10
+
+dir
+13
+https://subversion.assembla.com/svn/coreplaza/trunk/app/views/backend/financial_management/customer_management
+https://subversion.assembla.com/svn/coreplaza
+
+
+
+2015-08-27T20:46:42.582649Z
+2
+gp8086
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eec80a1e-b3e0-4d03-a88f-918ba9864de0
+
+calls
+dir
+
+contacts
+dir
+
+accounts
+dir
+
+contracts
+dir
+
+quotes
+dir
+
+lifts
+dir
+
+activities
+dir
+
+opportunities
+dir
+
+leads
+dir
+
+notes
+dir
+
+projects
+dir
+
+emails
+dir
+
+meetings
+dir
+
+call_manager_registers
+dir
+

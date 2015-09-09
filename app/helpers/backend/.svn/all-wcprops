@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend
+END
+customer_details_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/customer_details_helper.rb
+END
+shorcuts_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/shorcuts_helper.rb
+END
+multimedia_files_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/multimedia_files_helper.rb
+END
+finished_products_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/finished_products_helper.rb
+END
+contacts_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/contacts_helper.rb
+END
+invoices_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/invoices_helper.rb
+END
+credit_notes_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/credit_notes_helper.rb
+END
+session_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/session_helper.rb
+END
+home_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/home_helper.rb
+END
+docs_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/docs_helper.rb
+END
+raw_materials_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/raw_materials_helper.rb
+END
+designs_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/designs_helper.rb
+END
+budgets_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/budgets_helper.rb
+END
+reports_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/reports_helper.rb
+END
+orders_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/orders_helper.rb
+END
+cases_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/cases_helper.rb
+END
+incoming_invoices_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/incoming_invoices_helper.rb
+END
+products_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/helpers/backend/products_helper.rb
+END

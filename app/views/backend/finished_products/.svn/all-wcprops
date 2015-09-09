@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/finished_products
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/finished_products/_form.erb
+END
+_form_1.erb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/finished_products/_form_1.erb
+END
+select_presentation_unit_types.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/finished_products/select_presentation_unit_types.rjs
+END
+select_presentation_unit_type_measures.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/finished_products/select_presentation_unit_type_measures.rjs
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/finished_products/index.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/finished_products/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/finished_products/new.erb
+END
+_index_right_options.erb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/finished_products/_index_right_options.erb
+END

@@ -1,0 +1,43 @@
+<% is_second_fortnight = @process_regular_payroll.is_second_fortnight?%>
+
+<li>
+  <a href="#">Nomina Nº <%= @process_regular_payroll.id.to_code%> <span class="arrow"></span></a>
+  <ul style='width: 200px;'>
+
+	 <li>
+		<%= link_to_remote("Procesar nomina definitiva",:url => (!@process_regular_payroll.paid  ? backend_human_resource_accept_massive_process_url(@process_regular_payroll): ""),:confirm => "¿Esta seguro de procesar la nomina #{format_code(@process_regular_payroll.id, "05")} definitivamente?",:html => {:class => !@process_regular_payroll.paid ? "" : "disabled"})%>
+	 </li>
+	 <li>
+		<%= link_to("Enviar recibos de pago masivo",(@process_regular_payroll.paid  ? backend_human_resource_send_payment_receipt_by_mail_url(@process_regular_payroll): "#"),:confirm => "¿Esta seguro de enviar los recibos de pago de la nomina #{format_code(@process_regular_payroll.id, "05")}?",:class => @process_regular_payroll.paid ? "" : "disabled")%>
+	 </li>
+	 <li>
+		<%= link_to("Generar recibos de nomina", (@process_regular_payroll.paid  ? backend_human_resource_masive_payment_receipt_by_employee_url(@process_regular_payroll): ""))%>
+	 </li>
+	 <li type='separator'></li>
+      <li>Ver
+		  <ul>
+			 <li>
+				<%= link_to("Archivo FAOV",(is_second_fortnight ? backend_human_resource_show_massive_process_url(@process_regular_payroll,"txt") : "#"),:class => is_second_fortnight ? "" : "disabled") %>
+			 </li>
+			 <li>
+				<%= link_to("XML SENIAT",is_second_fortnight ? backend_human_resource_show_massive_process_url(@process_regular_payroll,"xml") : "#",:class => is_second_fortnight ? "" : "disabled") %>
+			 </li>
+			 <li>Archivo Masivo Banco
+                            <ul>
+                                <li>
+                                    <%= link_to("Cuenta nomina",backend_human_resource_show_resumen_bank_file_url(@process_regular_payroll,"payroll"),:class => "") %>
+                                </li>
+                                <li>
+                                    <%= link_to("Otras cuentas",backend_human_resource_show_resumen_bank_file_url(@process_regular_payroll,"others"),:class => "") %>
+                                </li>
+                            </ul>
+				
+			 </li>
+		  </ul>
+
+		</li>
+      
+      
+      
+  </ul>
+</li>

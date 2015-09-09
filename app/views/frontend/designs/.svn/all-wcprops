@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/new.erb
+END
+model_design_preview.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/model_design_preview.erb
+END
+select_digital_card.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/select_digital_card.rjs
+END
+model_design_preview_2.erb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/model_design_preview_2.erb
+END
+_form_step_1.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/_form_step_1.erb
+END
+_form_step_2.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/_form_step_2.erb
+END
+_form_step_3.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/_form_step_3.erb
+END
+_form_step_4_1.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/_form_step_4_1.erb
+END
+_form_step_4.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/_form_step_4.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/_form.erb
+END
+_leadspaces.erb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/_leadspaces.erb
+END
+form_step_1_categories.erb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/form_step_1_categories.erb
+END
+_product_components.erb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/_product_components.erb
+END
+preview.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/views/frontend/designs/preview.rjs
+END

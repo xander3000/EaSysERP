@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/coreplaza/!svn/ver/13/trunk/db/migrate
+END
+20150827163223_add_column_ghost.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/db/migrate/20150827163223_add_column_ghost.rb
+END
+20150901234607_create_payroll_payroll_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/coreplaza/!svn/ver/9/trunk/db/migrate/20150901234607_create_payroll_payroll_types.rb
+END
+20150901234643_create_payroll_payroll_type_personal_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/coreplaza/!svn/ver/9/trunk/db/migrate/20150901234643_create_payroll_payroll_type_personal_types.rb
+END
+20150902011614_create_payroll_process_regular_payrolls.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/13/trunk/db/migrate/20150902011614_create_payroll_process_regular_payrolls.rb
+END

@@ -1,0 +1,23 @@
+if @success
+  page.replace_html "totals_container", :partial => "totals"
+	page.replace_html "items", :partial => "items"
+	page.replace_html "incoming_invoice_taxes", :partial => "incoming_invoice_taxes"
+  
+  page << "$('#account_payable_incoming_invoice_supplier_id').val('#{@purcharse_order.supplier.id}')"
+  page << "$('#account_payable_incoming_invoice_supplier_type').val('#{@purcharse_order.supplier.class}')"
+	page << "$('#account_payable_incoming_invoice_supplier_name').val('#{@purcharse_order.supplier.name}')"
+
+	page << "$('#account_payable_incoming_invoice_tenderer_id').val('#{@purcharse_order.supplier.id}')"
+  page << "$('#account_payable_incoming_invoice_tenderer_type').val('#{@purcharse_order.supplier.class}')"
+	page << "$('#account_payable_incoming_invoice_tenderer_name').val('#{@purcharse_order.supplier.name}')"
+  page << "$('#account_payable_incoming_invoice_sub_total_amount').val('#{@purcharse_order.sub_total_amount}')"
+  page << "$('#account_payable_incoming_invoice_total_amount').val('#{@purcharse_order.total_amount}')"
+  page << "$('#account_payable_incoming_invoice_amount_total_to_paid').val('#{@purcharse_order.total_amount}')"
+  page.show("account_payable_incoming_invoice_tenderer_name_input")
+	
+else
+	page.show_message_errors(@errors, "message_overlay", nil)
+  page << "$('#account_payable_incoming_invoice_material_purchase_order').val('')"
+	page << "$('#account_payable_incoming_invoice_tenderer_name,#account_payable_incoming_invoice_tenderer_id').val('')"
+	page.replace_html "items", :text => ""
+end

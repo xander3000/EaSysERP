@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/permissions
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/permissions/_form.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/permissions/index.erb
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/cpanel/permissions/new.erb
+END

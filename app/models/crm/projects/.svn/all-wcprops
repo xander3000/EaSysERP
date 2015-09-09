@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/projects
+END
+lift_category_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/projects/lift_category_type.rb
+END
+lift.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/projects/lift.rb
+END
+lift_model.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/projects/lift_model.rb
+END
+lift_manufacturing_phase_lift_model.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/projects/lift_manufacturing_phase_lift_model.rb
+END
+executive.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/projects/executive.rb
+END
+lift_manufacturing_phase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/projects/lift_manufacturing_phase.rb
+END
+lift_material_for_manufacturing_phase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/projects/lift_material_for_manufacturing_phase.rb
+END
+call_manager_register.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/coreplaza/!svn/ver/2/trunk/app/models/crm/projects/call_manager_register.rb
+END

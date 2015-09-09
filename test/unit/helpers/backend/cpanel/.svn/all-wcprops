@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel
+END
+submodules_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/submodules_helper_test.rb
+END
+roles_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/roles_helper_test.rb
+END
+finish_product_type_prices_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/finish_product_type_prices_helper_test.rb
+END
+home_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/home_helper_test.rb
+END
+digital_cards_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/digital_cards_helper_test.rb
+END
+accessory_component_types_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/accessory_component_types_helper_test.rb
+END
+users_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/users_helper_test.rb
+END
+state_matrices_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/state_matrices_helper_test.rb
+END
+raw_material_price_definition_set_black_by_components_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/raw_material_price_definition_set_black_by_components_helper_test.rb
+END
+modules_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/modules_helper_test.rb
+END
+raw_material_price_definition_set_color_by_components_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/raw_material_price_definition_set_color_by_components_helper_test.rb
+END
+permissions_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/permissions_helper_test.rb
+END
+packing_materials_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/packing_materials_helper_test.rb
+END
+additional_component_types_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/additional_component_types_helper_test.rb
+END
+price_list_component_accesories_helper_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/helpers/backend/cpanel/price_list_component_accesories_helper_test.rb
+END

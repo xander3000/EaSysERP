@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/accountancy
+END
+accounting_concepts_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/accountancy/accounting_concepts_controller_test.rb
+END
+accountant_accounts_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/accountancy/accountant_accounts_controller_test.rb
+END
+basic_config_accounting_concepts_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/accountancy/basic_config_accounting_concepts_controller_test.rb
+END

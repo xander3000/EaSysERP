@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/4/trunk/app/controllers/backend/financial_management
+END
+service_orders_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/service_orders_controller.rb
+END
+purchase_ledgers_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/3/trunk/app/controllers/backend/financial_management/purchase_ledgers_controller.rb
+END
+credit_notes_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/credit_notes_controller.rb
+END
+advances_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/advances_controller.rb
+END
+suppliers_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/suppliers_controller.rb
+END
+outgoing_invoices_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/4/trunk/app/controllers/backend/financial_management/outgoing_invoices_controller.rb
+END
+payment_orders_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/payment_orders_controller.rb
+END
+account_receivables_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/account_receivables_controller.rb
+END
+receivable_accounts_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/receivable_accounts_controller.rb
+END
+clients_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/clients_controller.rb
+END
+incoming_invoices_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/incoming_invoices_controller.rb
+END
+base_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/base_controller.rb
+END
+payable_accounts_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/payable_accounts_controller.rb
+END
+payment_schedules_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/payment_schedules_controller.rb
+END
+sales_ledgers_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/financial_management/sales_ledgers_controller.rb
+END

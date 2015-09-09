@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank
+END
+cash_bank_cash_count_movement_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_bank_cash_count_movement_test.rb
+END
+cash_journal_position_category_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_journal_position_category_type_test.rb
+END
+cash_journal_position_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_journal_position_test.rb
+END
+bank_reconciliation_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/bank_reconciliation_test.rb
+END
+bank_movement_retention_position_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/bank_movement_retention_position_test.rb
+END
+cash_bank_pos_card_terminal_position_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_bank_pos_card_terminal_position_test.rb
+END
+cash_bank_cash_count_position_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_bank_cash_count_position_test.rb
+END
+cash_journal_count_position_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_journal_count_position_test.rb
+END
+bank_movement_operation_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/bank_movement_operation_type_test.rb
+END
+cash_bank_daily_cash_closing_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_bank_daily_cash_closing_test.rb
+END
+check_offered_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/check_offered_test.rb
+END
+involvement_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/involvement_type_test.rb
+END
+cash_journal_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_journal_test.rb
+END
+cash_journal_position_concept_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_journal_position_concept_type_test.rb
+END
+bank_movement_position_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/bank_movement_position_test.rb
+END
+bank_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/bank_test.rb
+END
+bank_reconciliation_bank_statement_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/bank_reconciliation_bank_statement_test.rb
+END
+cash_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_test.rb
+END
+cash_bank_pos_card_terminal_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_bank_pos_card_terminal_test.rb
+END
+cash_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_type_test.rb
+END
+daily_cash_opening_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/daily_cash_opening_test.rb
+END
+cash_journal_count_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_journal_count_test.rb
+END
+check_status_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/check_status_type_test.rb
+END
+bank_autoreconciliation_by_description_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/bank_autoreconciliation_by_description_test.rb
+END
+bank_movement_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/bank_movement_test.rb
+END
+bank_account_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/bank_account_test.rb
+END
+checkbook_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/checkbook_test.rb
+END
+bank_account_type_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/bank_account_type_test.rb
+END
+cash_bank_pos_card_terminal_movement_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/test/unit/cash_bank/cash_bank_pos_card_terminal_movement_test.rb
+END

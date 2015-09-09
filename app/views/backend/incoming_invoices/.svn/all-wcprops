@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices
+END
+confirm_purchase_order.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/confirm_purchase_order.rjs
+END
+_detail_header.erb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/_detail_header.erb
+END
+_form_header.erb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/_form_header.erb
+END
+add_payment.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/add_payment.rjs
+END
+set_incoming_invoice_document.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/set_incoming_invoice_document.rjs
+END
+add.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/add.rjs
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/show.erb
+END
+_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/_items.erb
+END
+_detail_payments.erb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/_detail_payments.erb
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/new.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/create.rjs
+END
+_detail_incoming_invoice_payment.erb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/_detail_incoming_invoice_payment.erb
+END
+detail.erb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/detail.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/_form.erb
+END
+_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/_form_items.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/incoming_invoices/index.erb
+END

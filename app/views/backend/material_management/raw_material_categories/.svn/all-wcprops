@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_material_categories
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_material_categories/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_material_categories/new.erb
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/material_management/raw_material_categories/_form.erb
+END

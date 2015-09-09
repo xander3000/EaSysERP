@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting
+END
+receivable_account.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/receivable_account.rb
+END
+service_order_position.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/service_order_position.rb
+END
+advance.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/advance.rb
+END
+retention_accounting_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/retention_accounting_type.rb
+END
+withholding_taxe_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/withholding_taxe_type.rb
+END
+ledger_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/ledger_type.rb
+END
+transaction_movement_accounting_concept.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/transaction_movement_accounting_concept.rb
+END
+accounting_concept.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/accounting_concept.rb
+END
+accounting_concept_operation_type.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/accounting_concept_operation_type.rb
+END
+payable_account.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/payable_account.rb
+END
+accountant_account.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/accountant_account.rb
+END
+basic_config_accounting_concept.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/basic_config_accounting_concept.rb
+END
+service_order.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/coreplaza/!svn/ver/2/trunk/app/models/accounting/service_order.rb
+END

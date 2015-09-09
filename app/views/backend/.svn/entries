@@ -1,0 +1,106 @@
+10
+
+dir
+13
+https://subversion.assembla.com/svn/coreplaza/trunk/app/views/backend
+https://subversion.assembla.com/svn/coreplaza
+
+
+
+2015-09-03T02:58:58.422210Z
+11
+gp8086
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eec80a1e-b3e0-4d03-a88f-918ba9864de0
+
+designs
+dir
+
+budgets
+dir
+
+cases
+dir
+
+orders
+dir
+
+reports
+dir
+
+shortcuts
+dir
+
+supply_chain
+dir
+
+incoming_invoices
+dir
+
+cpanel
+dir
+
+products
+dir
+
+customer_details
+dir
+
+web_design
+dir
+
+accountancy
+dir
+
+cashbank
+dir
+
+multimedia_files
+dir
+
+finished_products
+dir
+
+contacts
+dir
+
+invoices
+dir
+
+human_resource
+dir
+
+financial_management
+dir
+
+credit_notes
+dir
+
+session
+dir
+
+home
+dir
+
+docs
+dir
+
+material_management
+dir
+
+raw_materials
+dir
+

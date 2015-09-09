@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management
+END
+clients.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/clients.css
+END
+credit_notes.css
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/credit_notes.css
+END
+incoming_invoices.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/incoming_invoices.css
+END
+advances.css
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/advances.css
+END
+suppliers.css
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/suppliers.css
+END
+outgoing_invoices.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/outgoing_invoices.css
+END
+payment_orders.css
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/payment_orders.css
+END
+payment_schedules.css
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/payment_schedules.css
+END
+sales_ledgers.css
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/sales_ledgers.css
+END
+service_orders.css
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/service_orders.css
+END
+purchase_ledgers.css
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/coreplaza/!svn/ver/2/trunk/public/stylesheets/backend/financial_management/purchase_ledgers.css
+END

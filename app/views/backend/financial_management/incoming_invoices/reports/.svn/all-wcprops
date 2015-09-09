@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/incoming_invoices/reports
+END
+report_islr_retentions.erb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/incoming_invoices/reports/report_islr_retentions.erb
+END
+process_report_xlm_islr_retention.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/incoming_invoices/reports/process_report_xlm_islr_retention.rjs
+END
+report_xlm_islr_retention.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/incoming_invoices/reports/report_xlm_islr_retention.rjs
+END
+report_resume.erb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/incoming_invoices/reports/report_resume.erb
+END
+report_xlm_islr_retention.erb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/incoming_invoices/reports/report_xlm_islr_retention.erb
+END
+process_report_islr_retentions.erb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/financial_management/incoming_invoices/reports/process_report_islr_retentions.erb
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/cashbank
+END
+cashes_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/cashbank/cashes_controller_test.rb
+END
+bank_movements_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/cashbank/bank_movements_controller_test.rb
+END
+bank_accounts_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/cashbank/bank_accounts_controller_test.rb
+END
+check_offereds_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/cashbank/check_offereds_controller_test.rb
+END
+cash_journals_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/cashbank/cash_journals_controller_test.rb
+END
+checkbooks_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/cashbank/checkbooks_controller_test.rb
+END
+banks_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/cashbank/banks_controller_test.rb
+END
+bank_reconciliations_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/cashbank/bank_reconciliations_controller_test.rb
+END

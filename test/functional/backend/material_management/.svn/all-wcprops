@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/material_management
+END
+measure_units_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/material_management/measure_units_controller_test.rb
+END
+production_orders_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/material_management/production_orders_controller_test.rb
+END
+goods_movements_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/material_management/goods_movements_controller_test.rb
+END
+purchase_orders_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/material_management/purchase_orders_controller_test.rb
+END
+purchase_requisitions_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/material_management/purchase_requisitions_controller_test.rb
+END
+goods_receipts_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/material_management/goods_receipts_controller_test.rb
+END
+raw_materials_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/material_management/raw_materials_controller_test.rb
+END
+raw_material_categories_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/material_management/raw_material_categories_controller_test.rb
+END
+quotation_requisitions_controller_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/coreplaza/!svn/ver/2/trunk/test/functional/backend/material_management/quotation_requisitions_controller_test.rb
+END

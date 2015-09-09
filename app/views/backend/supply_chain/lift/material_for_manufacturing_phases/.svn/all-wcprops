@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases
+END
+_form.erb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/_form.erb
+END
+_form_items.erb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/_form_items.erb
+END
+add_lift_material_for_manufacturing_phase.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/add_lift_material_for_manufacturing_phase.rjs
+END
+_lift_material_for_manufacturing_phases.erb
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/_lift_material_for_manufacturing_phases.erb
+END
+index.erb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/index.erb
+END
+create.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/create.rjs
+END
+new.erb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/new.erb
+END
+_form_header.erb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/_form_header.erb
+END
+delete_lift_material_for_manufacturing_phase.rjs
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/delete_lift_material_for_manufacturing_phase.rjs
+END
+new_lift_material_for_manufacturing_phase.erb
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/new_lift_material_for_manufacturing_phase.erb
+END
+show.erb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/coreplaza/!svn/ver/2/trunk/app/views/backend/supply_chain/lift/material_for_manufacturing_phases/show.erb
+END

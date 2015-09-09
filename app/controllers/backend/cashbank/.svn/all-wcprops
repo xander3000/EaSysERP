@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/cashbank
+END
+cashes_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/cashbank/cashes_controller.rb
+END
+bank_movements_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/cashbank/bank_movements_controller.rb
+END
+bank_accounts_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/cashbank/bank_accounts_controller.rb
+END
+base_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/cashbank/base_controller.rb
+END
+check_offereds_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/cashbank/check_offereds_controller.rb
+END
+cash_journals_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/cashbank/cash_journals_controller.rb
+END
+checkbooks_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/cashbank/checkbooks_controller.rb
+END
+banks_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/cashbank/banks_controller.rb
+END
+bank_reconciliations_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/cashbank/bank_reconciliations_controller.rb
+END

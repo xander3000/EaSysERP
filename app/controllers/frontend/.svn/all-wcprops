@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend
+END
+budgets_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/budgets_controller.rb
+END
+contacts_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/contacts_controller.rb
+END
+orders_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/orders_controller.rb
+END
+users_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/users_controller.rb
+END
+aboutus_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/aboutus_controller.rb
+END
+products_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/products_controller.rb
+END
+session_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/session_controller.rb
+END
+static_contents_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/static_contents_controller.rb
+END
+home_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/home_controller.rb
+END
+base_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/base_controller.rb
+END
+designs_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/frontend/designs_controller.rb
+END

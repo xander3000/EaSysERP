@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/coreplaza/!svn/ver/12/trunk/app/controllers/backend/human_resource
+END
+concept_personal_types_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/human_resource/concept_personal_types_controller.rb
+END
+employees_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/human_resource/employees_controller.rb
+END
+monitoring_assistances_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/human_resource/monitoring_assistances_controller.rb
+END
+departments_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/human_resource/departments_controller.rb
+END
+positions_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/human_resource/positions_controller.rb
+END
+last_payrolls_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/coreplaza/!svn/ver/12/trunk/app/controllers/backend/human_resource/last_payrolls_controller.rb
+END
+base_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/human_resource/base_controller.rb
+END
+concepts_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/coreplaza/!svn/ver/2/trunk/app/controllers/backend/human_resource/concepts_controller.rb
+END
